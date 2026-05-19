@@ -18,8 +18,8 @@ import javax.mail.internet.*;
 public class OTPService {
 
     // ── Configure these two fields ──────────────────────────────
-    private static final String SMTP_USER = "trogonhorses@gmail.com";
-    private static final String SMTP_PASS = "iakztyonnxwbcvpd"; // 16-char Gmail App Password
+    private static final String SMTP_USER = "your email";
+    private static final String SMTP_PASS = "app password"; // 16-char Gmail App Password
     // ────────────────────────────────────────────────────────────
 
     private static final String SMTP_HOST = "smtp.gmail.com";
