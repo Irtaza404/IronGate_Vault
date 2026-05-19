@@ -7,10 +7,7 @@ import java.sql.SQLException;
 public class DBConnection {
 
     private static final String URL =
-            "jdbc:sqlserver://Muhammad-Irtaza\\SQLEXPRESS;" +
-            "databaseName=IronGate Vault;" +
-            "integratedSecurity=true;" +
-            "trustServerCertificate=true;";
+            "";
 
     private static Connection connection;
 
